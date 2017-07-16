@@ -1,0 +1,64 @@
+
+#     File Name            Abb     Line #  Candidate                           Resulted Candidate                  Match?    
+1     method_0001.java     in      20      input                               input                               Yes       
+2     method_0002.java     cal     2       calendar                            calendar                            Yes       
+3     method_0003.java     cal     7       calendar                            calendar                            Yes       
+4     method_0004.java     dim     8       dimension                           dimension                           Yes       
+5     method_0005.java     col     12      column                              column                              Yes       
+6     method_0006.java     obj     1       object                              object                              Yes       
+7     method_0007.java     cal     62      calendar                            calendar                            Yes       
+8     method_0008.java     in      1       invalid                             invalid                             Yes       
+9     method_0009.java     buf     10      buffer                              buffer                              Yes       
+10    method_0010.java     str     1       string                              string                              Yes       
+11    method_0011.java     dir     66      directory                           directory                           Yes       
+12    method_0012.java     res     9       resources                           resources                           Yes       
+13    method_0013.java     spec    4       specification                       specification|config                No        
+14    method_0014.java     dist    34      distance                            distance                            Yes       
+15    method_0015.java     ex      11      exception                           exception                           Yes       
+16    method_0016.java     img     52      image                               image                               Yes       
+17    method_0017.java     ad      69      advertisement                       advertisement                       Yes       
+18    method_0018.java     ev      2       event                               event                               Yes       
+19    method_0019.java     dir     97      directory                           directory                           Yes       
+20    method_0020.java     in      150     input                               input                               Yes       
+21    method_0021.java     dir     177     directory                           directory                           Yes       
+22    method_0022.java     buff    25      buffer                              buffer                              Yes       
+23    method_0023.java     ex      52      exception                           exception                           Yes       
+24    method_0024.java     proj    29      project                             project                             Yes       
+25    method_0025.java     lib     10      libpath                             libpath                             Yes       
+26    method_0026.java     obj     4       object                              object                              Yes       
+27    method_0027.java     docu    13      document                            document                            Yes       
+28    method_0028.java     el      37      element                             element                             Yes       
+29    method_0029.java     prop    50      property                            property|property                   No        
+30    method_0030.java     iter    49      iterator                            iterator                            Yes       
+31    method_0031.java     col     52      column                              column                              Yes       
+32    method_0032.java     ref     304     reference                           reference                           Yes       
+33    method_0033.java     frag    4       fragment                            fragment                            Yes       
+34    method_0034.java     comp    8       component                           component|property                  No        
+35    method_0035.java     prop    8       property                            property|property                   No        
+36    method_0036.java     col     13      columns                             columns                             Yes       
+37    method_0037.java     iter    14      iterator                            iterator                            Yes       
+38    method_0038.java     prop    4       property                            property|property                   No        
+39    method_0039.java     ref     16      referenced                          referenced                          Yes       
+40    method_0040.java     val     8       value                               value                               Yes       
+41    method_0041.java     el      1       element                             element                             Yes       
+42    method_0042.java     ann     47      annotation                          annotation                          Yes       
+43    method_0043.java     attr    7       attribute                           attribute                           Yes       
+44    method_0044.java     val     7       value                               value                               Yes       
+45    method_0045.java     obj     10      object                              object                              Yes       
+46    method_0046.java     sec     29      secondary                           secondary                           Yes       
+47    method_0047.java     ann     29      annotation                          annotation                          Yes       
+48    method_0048.java     ann     31      annotation                          annotation                          Yes       
+49    method_0049.java     id      37      identifier                          identifier                          Yes       
+50    method_0050.java     gen     37      generator                           generator                           Yes       
+51    method_0051.java     gen     41      generic                             generator|name                      No        
+52    method_0052.java     gen     41      generator                           generator|name                      No        
+53    method_0053.java     ann     70      annotation                          annotation                          Yes       
+54    method_0054.java     disc    12      discriminator                       discriminator|column                No        
+55    method_0055.java     def     6       definition                          default|filter                      No        
+56    method_0056.java     param   3       parameters                          parameters                          Yes       
+57    method_0057.java     prop    41      property                            property|property                   No        
+58    method_0058.java     ann     146     annotation                          annotation                          Yes       
+59    method_0059.java     tab     3       table                               table                               Yes       
+
+ Correctly found 49 out of 59 tests
+ Correctness Percentage: %83

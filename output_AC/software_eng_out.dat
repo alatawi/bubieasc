@@ -1,0 +1,40 @@
+
+#     File Name            Abb     Line #  Candidate                           Resulted Candidate                  Match?    
+1     method_0001.java     dl      203     download                            download                            Yes       
+2     method_0002.java     btn     28      button                              button                              Yes       
+3     method_0003.java     img     52      image                               image                               Yes       
+4     method_0004.java     src     19      source                              source|code                         No        
+5     method_0005.java     msg     10      message                             message                             Yes       
+6     method_0006.java     stk     10      stack                               stack                               Yes       
+7     method_0007.java     cmd     26      command                             command                             Yes       
+8     method_0008.java     in      20      input                               input                               Yes       
+9     method_0009.java     cal     2       calendar                            calendar                            Yes       
+10    method_0010.java     dim     8       dimension                           dimension                           Yes       
+11    method_0011.java     dir     66      directory                           directory                           Yes       
+12    method_0012.java     res     9       resources                           resources                           Yes       
+13    method_0013.java     spec    4       specification                       specification|config                No        
+14    method_0014.java     dist    34      distance                            distance                            Yes       
+15    method_0015.java     proj    29      project                             project                             Yes       
+16    method_0016.java     obj     4       object                              object                              Yes       
+17    method_0017.java     iter    49      iterator                            iterator                            Yes       
+18    method_0018.java     col     52      column                              column                              Yes       
+19    method_0019.java     ref     304     reference                           read|entries|factory                No        
+20    method_0020.java     iter    14      iterator                            iterator                            Yes       
+21    method_0021.java     prop    4       property                            property|property                   No        
+22    method_0022.java     id      37      identifier                          identifier                          Yes       
+23    method_0023.java     ltr     12      left|to|right                       left|to|right                       Yes       
+24    method_0024.java     uk      16      unique|key                          unique|key                          Yes       
+25    method_0025.java     info    2       information                         information                         Yes       
+26    method_0026.java     warn    2       warning                             warning                             Yes       
+27    method_0027.java     err     2       error                               error                               Yes       
+28    method_0028.java     msg     2       message                             message                             Yes       
+29    method_0029.java     util    2       utility                             utility                             Yes       
+30    method_0030.java     dir     10      directory                           directory                           Yes       
+31    method_0031.java     e       12      exception                           exception                           Yes       
+32    method_0032.java     init    5       initialize                          in|it                               No        
+33    method_0033.java     i       11      int                                 int                                 Yes       
+34    method_0034.java     o       6       object                              object                              Yes       
+35    method_0035.java     ex      19      exception                           exception                           Yes       
+
+ Correctly found 30 out of 35 tests
+ Correctness Percentage: %86

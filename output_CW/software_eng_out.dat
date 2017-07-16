@@ -1,0 +1,28 @@
+
+#     File Name            Abb     Line #  Candidate                           Resulted Candidate                  Match?    
+1     method_0001.java     ltr     12      left|to|right                       left|to|right                       Yes       
+2     method_0002.java     fm      20      font|metrics                        font|month                          No        
+3     method_0003.java     fc      41      fixed|cost                          fixed|cost                          Yes       
+4     method_0004.java     wc      8       work|calendar                       work|calendar                       Yes       
+5     method_0005.java     fe      68      formatter|element                   formatter|element                   Yes       
+6     method_0006.java     nse     140     no|such|exception                   nested                              No        
+7     method_0007.java     dm      6       display|metrics                     display|metrics                     Yes       
+8     method_0008.java     cp      10      class|path                          contents|path                       No        
+9     method_0009.java     cpe     34      classpath|path|entry                classpath|path|entry                Yes       
+10    method_0010.java     jme     58      java|model|exception                java|model|exception                Yes       
+11    method_0011.java     em      2       entity|mode                         entity|mode                         Yes       
+12    method_0012.java     lce     25      load|collection|entry               load|collection|entry               Yes       
+13    method_0013.java     ce      12      collection|entry                    context|entry                       No        
+14    method_0014.java     ps      30      prepared|statement                  prepared|statement                  Yes       
+15    method_0015.java     ck      37      cache|key                           cache|key                           Yes       
+16    method_0016.java     uk      16      unique|key                          unique|key                          Yes       
+17    method_0017.java     fk      52      foreign|key                         foreign|key                         Yes       
+18    method_0018.java     uk      7       unique|key                          unique|key                          Yes       
+19    method_0019.java     ad      6       annotation|descriptor               annotation|descriptor               Yes       
+20    method_0020.java     gc      65      graphics|configuration              get|configuration                   No        
+21    method_0021.java     st      93      scale|transform                     scale|transform                     Yes       
+22    method_0022.java     zp      14      zoom|point                          zoom|point                          Yes       
+23    method_0023.java     pf      6       page|format                         page|format                         Yes       
+
+ Correctly found 18 out of 23 tests
+ Correctness Percentage: %78

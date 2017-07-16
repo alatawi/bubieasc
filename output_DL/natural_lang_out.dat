@@ -1,0 +1,14 @@
+
+#     File Name            Abb     Line #  Candidate                           Resulted Candidate                  Match?    
+1     method_0001.java     dl      203     download                            download                            Yes       
+2     method_0002.java     btn     28      button                              button                              Yes       
+3     method_0003.java     img     52      image                               image                               Yes       
+4     method_0004.java     cols    161     columns                             columns                             Yes       
+5     method_0005.java     strs    22      strings                             string|string                       No        
+6     method_0006.java     src     19      source                              source|code                         No        
+7     method_0007.java     msg     10      message                             message                             Yes       
+8     method_0008.java     stk     10      stack                               stack                               Yes       
+9     method_0009.java     cmd     26      command                             command                             Yes       
+
+ Correctly found 7 out of 9 tests
+ Correctness Percentage: %78
